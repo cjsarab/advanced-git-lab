@@ -1,6 +1,7 @@
 const name = "john";
 
-const helloWorld = () => {
-    return `Hello World ${name}!`;
+const bugs = () => {
+    return `Hello, ${bugs}!`;
   }
 
+const bugs = fixbugs
