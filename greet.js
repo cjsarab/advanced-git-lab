@@ -1,1 +1,3 @@
-// This is a test
+const helloWorld = () => {
+    return "Hello World!";
+  }
