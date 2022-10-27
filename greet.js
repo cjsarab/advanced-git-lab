@@ -1,3 +1,6 @@
+const name = "john";
+
 const helloWorld = () => {
-    return "Hello World!";
+    return `Hello World ${name}!`;
   }
+
